@@ -1,0 +1,62 @@
+# Metrics view YAML
+# Reference documentation: https://docs.rilldata.com/reference/project-files/metrics-views
+# This file was generated using AI.
+
+version: 1
+type: metrics_view 
+
+display_name: Export Table Metrics
+model: export
+timeseries: Due date
+
+dimensions:
+  - name: Title
+    display_name: Title
+    column: Title
+  - name: Description
+    display_name: Description
+    column: Description
+  - name: Priority
+    display_name: Priority
+    column: Priority
+  - name: Due date
+    display_name: Due Date
+    column: Due date
+  - name: Created at
+    display_name: Created At
+    column: Created at
+  - name: Updated at
+    display_name: Updated At
+    column: Updated at
+
+measures:
+  - name: total_exports_measure_measure
+    display_name: Total Exports
+    expression: COUNT(*)
+    description: Total number of export records.
+    format_preset: humanize
+  - name: completed_exports_measure_measure
+    display_name: Completed Exports
+    expression: SUM(Completed)
+    description: Sum of the Completed field across all exports.
+    format_preset: humanize
+  - name: average_completed_measure_measure
+    display_name: Average Completed Value
+    expression: AVG(Completed)
+    description: Average value of the Completed field for exports.
+    format_preset: humanize
+  - name: min_completed_measure_measure
+    display_name: Minimum Completed Value
+    expression: MIN(Completed)
+    description: Minimum value of the Completed field for exports.
+    format_preset: humanize
+  - name: max_completed_measure_measure
+    display_name: Maximum Completed Value
+    expression: MAX(Completed)
+    description: Maximum value of the Completed field for exports.
+    format_preset: humanize
+  - name: unique_titles_measure_measure
+    display_name: Unique Titles
+    expression: COUNT(DISTINCT Title)
+    description: Number of unique export titles.
+    format_preset: humanize

@@ -1,0 +1,199 @@
+﻿ID,Title,Description,Completed,Priority,Due date,Created at,Updated at
+4,Team Meeting Preparation,Prepare slides for weekly team sync,1,Medium,2026-01-14,2026-01-12 18:39:16,2026-01-12 18:39:16
+5,Fix Login Bug,Investigate and fix the authentication timeout issue,0,High,2026-01-12,2026-01-12 18:39:16,2026-01-12 18:39:16
+6,Database Backup,Set up automated daily database backups,0,Low,2026-01-20,2026-01-12 18:39:16,2026-01-12 18:39:16
+7,Learn Ti DB Features,Explore TiDB Cloud dashboard and monitoring tools,1,Medium,2026-01-25,2026-01-12 18:39:16,2026-01-12 18:39:16
+8,Client Follow Up Email,Send project status update to the client,0,High,2026-01-13,2026-01-12 18:39:16,2026-01-12 18:39:16
+9,Refactor CSS Styles,Clean up and organize the stylesheet,0,Low,2026-01-30,2026-01-12 18:39:16,2026-01-12 18:39:16
+10,Security Audit,Run security scan and address vulnerabilities,0,High,2026-01-22,2026-01-12 18:39:16,2026-01-12 18:39:16
+11,Complete Project Proposal,Write and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 18:39:21,2026-01-12 18:39:21
+12,Review Code Changes,Review pull requests from the development team,0,High,2026-01-13,2026-01-12 18:39:21,2026-01-12 18:39:21
+13,Update Documentation,Update API documentation with new endpoints,0,Medium,2026-01-18,2026-01-12 18:39:21,2026-01-12 18:39:21
+14,Team Meeting Preparation,Prepare slides for weekly team sync,1,Medium,2026-01-14,2026-01-12 18:39:21,2026-01-12 18:39:21
+15,Fix Login Bug,Investigate and fix the authentication timeout issue,0,High,2026-01-12,2026-01-12 18:39:21,2026-01-12 18:39:21
+16,Database Backup,Set up automated daily database backups,0,Low,2026-01-20,2026-01-12 18:39:21,2026-01-12 18:39:21
+17,Learn Ti DB Features,Explore TiDB Cloud dashboard and monitoring tools,1,Medium,2026-01-25,2026-01-12 18:39:21,2026-01-12 18:39:21
+18,Client Follow Up Email,Send project status update to the client,0,High,2026-01-13,2026-01-12 18:39:21,2026-01-12 18:39:21
+19,Refactor CSS Styles,Clean up and organize the stylesheet,0,Low,2026-01-30,2026-01-12 18:39:21,2026-01-12 18:39:21
+20,Security Audit,Run security scan and address vulnerabilities,0,High,2026-01-22,2026-01-12 18:39:21,2026-01-12 18:39:21
+21,Complete Project Proposal,Write and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 18:40:14,2026-01-12 18:40:14
+22,Review Code Changes,Review pull requests from the development team,0,High,2026-01-13,2026-01-12 18:40:14,2026-01-12 18:40:14
+23,Update Documentation,Update API documentation with new endpoints,0,Medium,2026-01-18,2026-01-12 18:40:14,2026-01-12 18:40:14
+24,Team Meeting Preparation,Prepare slides for weekly team sync,1,Medium,2026-01-14,2026-01-12 18:40:14,2026-01-12 18:40:14
+25,Fix Login Bug,Investigate and fix the authentication timeout issue,0,High,2026-01-12,2026-01-12 18:40:14,2026-01-12 18:40:14
+26,Database Backup,Set up automated daily database backups,0,Low,2026-01-20,2026-01-12 18:40:14,2026-01-12 18:40:14
+27,Learn Ti DB Features,Explore TiDB Cloud dashboard and monitoring tools,1,Medium,2026-01-25,2026-01-12 18:40:14,2026-01-12 18:40:14
+28,Client Follow Up Email,Send project status update to the client,0,High,2026-01-13,2026-01-12 18:40:14,2026-01-12 18:40:14
+29,Refactor CSS Styles,Clean up and organize the stylesheet,0,Low,2026-01-30,2026-01-12 18:40:14,2026-01-12 18:40:14
+30,Security Audit,Run security scan and address vulnerabilities,0,High,2026-01-22,2026-01-12 18:40:14,2026-01-12 18:40:14
+30001,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 20:30:49,2026-01-12 20:30:49
+30002,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 20:30:49,2026-01-12 20:30:49
+30003,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 20:30:49,2026-01-12 20:30:49
+30004,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 20:30:49,2026-01-12 20:30:49
+30005,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 20:30:49,2026-01-12 20:30:49
+30006,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 20:30:49,2026-01-12 20:30:49
+30007,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 20:30:49,2026-01-12 20:30:49
+30008,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 20:30:49,2026-01-12 20:30:49
+30009,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 20:30:49,2026-01-12 20:30:49
+30010,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 20:30:49,2026-01-12 20:30:49
+30011,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 20:31:08,2026-01-12 20:31:08
+30012,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 20:31:08,2026-01-12 20:31:08
+30013,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 20:31:08,2026-01-12 20:31:08
+30014,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 20:31:08,2026-01-12 20:31:08
+30015,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 20:31:08,2026-01-12 20:31:08
+30016,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 20:31:08,2026-01-12 20:31:08
+30017,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 20:31:08,2026-01-12 20:31:08
+30018,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 20:31:08,2026-01-12 20:31:08
+30019,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 20:31:08,2026-01-12 20:31:08
+30020,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 20:31:08,2026-01-12 20:31:08
+60001,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 20:41:47,2026-01-12 20:41:47
+60002,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 20:41:47,2026-01-12 20:41:47
+60003,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 20:41:47,2026-01-12 20:41:47
+60004,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 20:41:47,2026-01-12 20:41:47
+60005,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 20:41:47,2026-01-12 20:41:47
+60006,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 20:41:47,2026-01-12 20:41:47
+60007,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 20:41:47,2026-01-12 20:41:47
+60008,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 20:41:47,2026-01-12 20:41:47
+60009,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 20:41:47,2026-01-12 20:41:47
+60010,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 20:41:47,2026-01-12 20:41:47
+90001,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:19:26,2026-01-12 21:19:26
+90002,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:19:26,2026-01-12 21:19:26
+90003,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:19:26,2026-01-12 21:19:26
+90004,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:19:26,2026-01-12 21:19:26
+90005,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:19:26,2026-01-12 21:19:26
+90006,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:19:26,2026-01-12 21:19:26
+90007,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:19:26,2026-01-12 21:19:26
+90008,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:19:26,2026-01-12 21:19:26
+90009,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:19:26,2026-01-12 21:19:26
+90010,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:19:26,2026-01-12 21:19:26
+90011,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:21:41,2026-01-12 21:21:41
+90012,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:21:41,2026-01-12 21:21:41
+90013,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:21:41,2026-01-12 21:21:41
+90014,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:21:41,2026-01-12 21:21:41
+90015,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:21:41,2026-01-12 21:21:41
+90016,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:21:41,2026-01-12 21:21:41
+90017,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:21:41,2026-01-12 21:21:41
+90018,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:21:41,2026-01-12 21:21:41
+90019,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:21:41,2026-01-12 21:21:41
+90020,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:21:41,2026-01-12 21:21:41
+90021,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:24:20,2026-01-12 21:24:20
+90022,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:24:20,2026-01-12 21:24:20
+90023,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:24:20,2026-01-12 21:24:20
+90024,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:24:20,2026-01-12 21:24:20
+90025,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:24:20,2026-01-12 21:24:20
+90026,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:24:20,2026-01-12 21:24:20
+90027,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:24:20,2026-01-12 21:24:20
+90028,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:24:20,2026-01-12 21:24:20
+90029,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:24:20,2026-01-12 21:24:20
+90030,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:24:20,2026-01-12 21:24:20
+90031,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:27:41,2026-01-12 21:27:41
+90032,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:27:41,2026-01-12 21:27:41
+90033,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:27:41,2026-01-12 21:27:41
+90034,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:27:41,2026-01-12 21:27:41
+90035,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:27:41,2026-01-12 21:27:41
+90036,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:27:41,2026-01-12 21:27:41
+90037,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:27:41,2026-01-12 21:27:41
+90038,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:27:41,2026-01-12 21:27:41
+90039,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:27:41,2026-01-12 21:27:41
+90040,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:27:41,2026-01-12 21:27:41
+90041,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:29:06,2026-01-12 21:29:06
+90042,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:29:06,2026-01-12 21:29:06
+90043,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:29:06,2026-01-12 21:29:06
+90044,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:29:06,2026-01-12 21:29:06
+90045,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:29:06,2026-01-12 21:29:06
+90046,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:29:06,2026-01-12 21:29:06
+90047,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:29:06,2026-01-12 21:29:06
+90048,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:29:06,2026-01-12 21:29:06
+90049,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:29:06,2026-01-12 21:29:06
+90050,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:29:06,2026-01-12 21:29:06
+90051,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:31:31,2026-01-12 21:31:31
+90052,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:31:31,2026-01-12 21:31:31
+90053,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:31:31,2026-01-12 21:31:31
+90054,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:31:31,2026-01-12 21:31:31
+90055,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:31:31,2026-01-12 21:31:31
+90056,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:31:31,2026-01-12 21:31:31
+90057,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:31:31,2026-01-12 21:31:31
+90058,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:31:31,2026-01-12 21:31:31
+90059,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:31:31,2026-01-12 21:31:31
+90060,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:31:31,2026-01-12 21:31:31
+90061,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:32:30,2026-01-12 21:32:30
+90062,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:32:30,2026-01-12 21:32:30
+90063,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:32:30,2026-01-12 21:32:30
+90064,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:32:30,2026-01-12 21:32:30
+90065,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:32:30,2026-01-12 21:32:30
+90066,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:32:30,2026-01-12 21:32:30
+90067,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:32:30,2026-01-12 21:32:30
+90068,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:32:30,2026-01-12 21:32:30
+90069,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:32:30,2026-01-12 21:32:30
+90070,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:32:30,2026-01-12 21:32:30
+90071,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:32:58,2026-01-12 21:32:58
+90072,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:32:58,2026-01-12 21:32:58
+90073,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:32:58,2026-01-12 21:32:58
+90074,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:32:58,2026-01-12 21:32:58
+90075,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:32:58,2026-01-12 21:32:58
+90076,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:32:58,2026-01-12 21:32:58
+90077,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:32:58,2026-01-12 21:32:58
+90078,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:32:58,2026-01-12 21:32:58
+90079,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:32:58,2026-01-12 21:32:58
+90080,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:32:58,2026-01-12 21:32:58
+90081,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:33:35,2026-01-12 21:33:35
+90082,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:33:35,2026-01-12 21:33:35
+90083,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:33:35,2026-01-12 21:33:35
+90084,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:33:35,2026-01-12 21:33:35
+90085,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:33:35,2026-01-12 21:33:35
+90086,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:33:35,2026-01-12 21:33:35
+90087,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:33:35,2026-01-12 21:33:35
+90088,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:33:35,2026-01-12 21:33:35
+90089,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:33:35,2026-01-12 21:33:35
+90090,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:33:35,2026-01-12 21:33:35
+90091,,,0,,,2026-01-12 21:33:35,2026-01-12 21:33:35
+90092,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:35:07,2026-01-12 21:35:07
+90093,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:35:07,2026-01-12 21:35:07
+90094,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:35:07,2026-01-12 21:35:07
+90095,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:35:07,2026-01-12 21:35:07
+90096,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:35:07,2026-01-12 21:35:07
+90097,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:35:07,2026-01-12 21:35:07
+90098,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:35:07,2026-01-12 21:35:07
+90099,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:35:07,2026-01-12 21:35:07
+90100,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:35:07,2026-01-12 21:35:07
+90101,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:35:07,2026-01-12 21:35:07
+90102,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:35:46,2026-01-12 21:35:46
+90103,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:35:46,2026-01-12 21:35:46
+90104,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:35:46,2026-01-12 21:35:46
+90105,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:35:46,2026-01-12 21:35:46
+90106,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:35:46,2026-01-12 21:35:46
+90107,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:35:46,2026-01-12 21:35:46
+90108,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:35:46,2026-01-12 21:35:46
+90109,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:35:46,2026-01-12 21:35:46
+90110,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:35:46,2026-01-12 21:35:46
+90111,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:35:46,2026-01-12 21:35:46
+90112,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:36:23,2026-01-12 21:36:23
+90113,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:36:23,2026-01-12 21:36:23
+90114,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:36:23,2026-01-12 21:36:23
+90115,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:36:23,2026-01-12 21:36:23
+90116,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:36:23,2026-01-12 21:36:23
+90117,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:36:23,2026-01-12 21:36:23
+90118,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:36:23,2026-01-12 21:36:23
+90119,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:36:23,2026-01-12 21:36:23
+90120,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:36:23,2026-01-12 21:36:23
+90121,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:36:23,2026-01-12 21:36:23
+90122,Complete Project Proposal,Draft and submit the Q1 project proposal to management,0,High,2026-01-15,2026-01-12 21:36:25,2026-01-12 21:36:25
+90123,Review Code Changes,Review pull requests from the frontend team,0,Medium,2026-01-13,2026-01-12 21:36:25,2026-01-12 21:36:25
+90124,Update Documentation,Update API docs with new endpoints,1,Low,2026-01-10,2026-01-12 21:36:25,2026-01-12 21:36:25
+90125,Schedule Team Meeting,Set up weekly sync meeting for engineering team,1,Medium,2026-01-11,2026-01-12 21:36:25,2026-01-12 21:36:25
+90126,Fix Login Bug,Resolve the authentication timeout issue reported by users,0,High,2026-01-14,2026-01-12 21:36:25,2026-01-12 21:36:25
+90127,Deploy To Staging,Push latest changes to staging environment for QA,0,High,2026-01-12,2026-01-12 21:36:25,2026-01-12 21:36:25
+90128,Write Unit Tests,Add test coverage for the new payment module,0,Medium,2026-01-18,2026-01-12 21:36:25,2026-01-12 21:36:25
+90129,Backup Database,Create weekly backup of production database,1,Low,2026-01-09,2026-01-12 21:36:25,2026-01-12 21:36:25
+90130,Research New Framework,Evaluate Next.js vs Remix for upcoming project,0,Low,2026-01-20,2026-01-12 21:36:25,2026-01-12 21:36:25
+90131,Client Follow Up,Send progress report to client stakeholders,0,Medium,2026-01-16,2026-01-12 21:36:25,2026-01-12 21:36:25
+90132,,,0,Medium,,2026-01-12 21:37:27,2026-01-12 21:37:27
+90133,,,0,Medium,,2026-01-12 21:46:52,2026-01-12 21:46:52
+90134,,,0,Medium,,2026-01-12 21:48:39,2026-01-12 21:48:39
+120001,,,0,Medium,,2026-01-12 21:58:58,2026-01-12 21:58:58
+120002,,,0,Medium,,2026-01-12 22:02:19,2026-01-12 22:02:19
+120003,,,0,Medium,,2026-01-12 22:02:25,2026-01-12 22:02:25
+120004,Team,,0,Low,2026-01-14,2026-01-12 22:03:18,2026-01-12 22:03:18
+120005,Team,,0,Low,2026-01-17,2026-01-12 22:03:29,2026-01-12 22:03:29
+120006,,,0,Medium,,2026-01-12 22:05:41,2026-01-12 22:05:41
+120007,4,,0,Low,2026-01-15,2026-01-12 22:05:58,2026-01-12 22:05:58
