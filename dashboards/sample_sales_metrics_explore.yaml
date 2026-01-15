@@ -1,0 +1,14 @@
+# Explore YAML
+# Reference documentation: https://docs.rilldata.com/reference/project-files/explore-dashboards
+
+type: explore
+
+display_name: "Sample Sales Metrics dashboard"
+metrics_view: sample_sales_metrics
+
+dimensions: "*"
+measures: '*'
+theme:
+  light:
+    primary: hsl(180, 100%, 50%)
+    secondary: lightgreen

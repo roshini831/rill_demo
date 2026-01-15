@@ -1,0 +1,76 @@
+# Metrics view YAML
+# Reference documentation: https://docs.rilldata.com/reference/project-files/metrics-views
+# This file was generated using AI.
+
+version: 1
+type: metrics_view 
+
+display_name: Sample Sales Metrics
+model: sample_sales
+timeseries: date
+
+dimensions:
+  - name: date
+    display_name: Date
+    column: date
+  - name: product
+    display_name: Product
+    column: product
+  - name: category
+    display_name: Category
+    column: category
+  - name: region
+    display_name: Region
+    column: region
+
+measures:
+  - name: total_sales_count_measure
+    display_name: Total Sales Count
+    expression: COUNT(*)
+    description: Total number of sales records in the sample_sales table.
+    format_preset: humanize
+  - name: total_sales_amount_measure
+    display_name: Total Sales Amount
+    expression: SUM(amount)
+    description: Sum of the sales amounts across all records.
+    format_preset: humanize
+  - name: average_sales_amount_measure
+    display_name: Average Sales Amount
+    expression: AVG(amount)
+    description: Average sales amount per record.
+    format_preset: humanize
+  - name: min_sales_amount_measure
+    display_name: Minimum Sales Amount
+    expression: MIN(amount)
+    description: Minimum sales amount in a single record.
+    format_preset: humanize
+  - name: max_sales_amount_measure
+    display_name: Maximum Sales Amount
+    expression: MAX(amount)
+    description: Maximum sales amount in a single record.
+    format_preset: humanize
+  - name: distinct_products_count_measure
+    display_name: Distinct Products Count
+    expression: COUNT(DISTINCT product)
+    description: Number of unique products sold.
+    format_preset: humanize
+  - name: distinct_categories_count_measure
+    display_name: Distinct Categories Count
+    expression: COUNT(DISTINCT category)
+    description: Number of unique product categories.
+    format_preset: humanize
+  - name: distinct_regions_count_measure
+    display_name: Distinct Regions Count
+    expression: COUNT(DISTINCT region)
+    description: Number of unique sales regions.
+    format_preset: humanize
+  - name: distinct_dates_count_measure
+    display_name: Distinct Dates Count
+    expression: COUNT(DISTINCT date)
+    description: Number of unique sales dates.
+    format_preset: humanize
+  - name: average_sales_per_region_measure
+    display_name: Average Sales Amount per Region
+    expression: AVG(amount)
+    description: Average sales amount per record, useful for region-based analysis.
+    format_preset: humanize
